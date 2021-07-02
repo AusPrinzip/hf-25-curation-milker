@@ -1,0 +1,16 @@
+{
+  "name": "milk",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@hiveio/dhive": "^0.14.15",
+    "dotenv": "^10.0.0",
+    "mssql": "^7.1.3"
+  }
+}
